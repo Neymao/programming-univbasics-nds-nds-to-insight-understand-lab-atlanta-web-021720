@@ -1,5 +1,5 @@
 
-$pp_called_flag
+
 require 'yaml'
 
 def directors_database
