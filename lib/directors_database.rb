@@ -1,6 +1,6 @@
 
-(!!$pp_called_flag)
-require 'yaml'
+
+require 'pp'
 
 def directors_database
 	rot13 = -> (s) { s.tr('A-Za-z', 'N-ZA-Mn-za-m') }
